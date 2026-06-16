@@ -1,15 +1,57 @@
-# 💫 About Me:
-# Hi 👋, I'm Giri Sai Durga Janapareddy<br><br>🎓 Computer Science Graduate (2025)<br><br>💻 Aspiring Software Engineer | AI & Cloud Enthusiast<br><br>🚀 Currently focused on:<br>- Python Programming<br>- Data Structures & Algorithms<br>- AI/ML Fundamentals<br>- AWS Cloud Computing<br>- Docker & Kubernetes<br>- Swift Development<br><br>🌱 Learning every day and building projects to strengthen my problem-solving and software development skills.<br><br>## 📌 Current Goals<br><br>- Build production-ready projects<br>- Improve Data Structures & Algorithms<br>- Earn AWS certifications<br>- Contribute to Open Source<br>- Secure a Software Engineering role by 2027<br><br>## 📫 Connect With Me<br><br>- LinkedIn: www.linkedin.com/in/janapareddy-giri-sai-durga<br>- GitHub: github.com/sai8555<br><br>---<br><br>> "Consistency beats talent when talent doesn't work consistently."
+# Hi there 👋 I'm Giri Sai Durga Janapareddy
 
+### Software Engineer in Progress | AI & Cloud Learner
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sai8555&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sai8555&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sai8555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 Computer Science Graduate (2025)
+
+I'm currently focused on building strong fundamentals in Software Engineering, Cloud Computing, and Artificial Intelligence through consistent learning and hands-on projects.
+
+### 🚀 What I'm Working On
+
+- Data Structures & Algorithms
+- Python Development
+- AI & Machine Learning
+- AWS Cloud
+- Docker & Kubernetes
+- Swift Development
+- Open Source Contributions
+
+### 🛠 Tech Stack
+
+#### Languages
+Python • Java • SQL • Swift
+
+#### AI & Data
+TensorFlow • Keras • PyTorch • Scikit-Learn • Pandas • NumPy
+
+#### Cloud & DevOps
+AWS • Docker • Kubernetes • Git • GitHub
+
+#### Databases
+MySQL • CockroachDB • Firebase
+
+### 🎯 2026–2027 Goals
+
+- Build 10+ real-world projects
+- Master Data Structures & Algorithms
+- Earn AWS Certifications
+- Contribute to Open Source
+- Secure a Software Engineering Role
+
+### 📈 Current Focus
+
+```text
+Learning > Building > Improving > Repeating
+```
+
+### 📫 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/janapareddy-giri-sai-durga
+
+GitHub:
+github.com/sai8555
 
 ---
-[![](https://komarev.com/ghpvc/?username=sai8555&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> "Small improvements every day lead to remarkable results."
