@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Giri Sai Durga Janapareddy
 
-### Software Engineer in Progress | AI & Cloud Learner
+### Software Engineer | AI & Cloud Learner
 
 🎓 Computer Science Graduate (2025)
 
-I'm currently focused on building strong fundamentals in Software Engineering, Cloud Computing, and Artificial Intelligence through consistent learning and hands-on projects.
+I'm currently focused on building strong in Software Engineering, Cloud Computing, and Artificial Intelligence through consistent learning and hands-on projects.
 
 ### 🚀 What I'm Working On
 
