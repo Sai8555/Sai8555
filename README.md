@@ -7,11 +7,7 @@
   <img src="https://img.shields.io/badge/Focus-Software%20%26%20Cloud-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active%20Contributor-green?style=for-the-badge" />
 </p>
-<!-- DYNAMIC DEVELOPER METRICS -->
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Sai8555&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="Giri's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai8555&theme=tokyonight" height="180" alt="Giri's Git Streak" />
-</p>
+
 
 I bridge the gap between strict software engineering, advanced machine learning models, and resilient real-world runtime operations. Focused on building production-ready Python architectures, scalable cloud infrastructure, and self-healing systems.
 
@@ -83,3 +79,5 @@ I bridge the gap between strict software engineering, advanced machine learning 
 
 ```text
 Build Engine ➡️ Test Failures ➡️ Auto-Heal ➡️ Scale Securely
+
+
