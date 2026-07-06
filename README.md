@@ -9,14 +9,8 @@
 </p>
 
 <!-- DYNAMIC DEVELOPER METRICS -->
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sai8555&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" height="180" alt="Giri's GitHub Stats" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai8555&theme=tokyonight&hide_border=false" height="180" alt="Giri's Git Streak" />
-  </a>
-</p>
+![Giri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai8555&show_icons=true&theme=tokyonight&count_private=true)
+![Giri's Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sai8555&theme=tokyonight)
 
 I bridge the gap between strict software engineering, advanced machine learning models, and resilient real-world runtime operations. Focused on building production-ready Python architectures, scalable cloud infrastructure, and self-healing systems.
 
