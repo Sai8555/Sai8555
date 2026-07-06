@@ -9,9 +9,9 @@
 </p>
 
 <!-- SIDE-BY-SIDE METRICS GRID -->
-| 📈 GitHub Analytics | 🔥 Contribution Streak |
+| 🏆 Developer Milestones | 🔥 Contribution Streak |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Sai8555&show_icons=true&theme=tokyonight&count_private=true" width="400px" alt="Giri's GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai8555&theme=tokyonight" width="400px" alt="Giri's Git Streak" /> |
+| [![Giri's Trophies](https://github-profile-trophy.vercel.app/?username=Sai8555&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai8555&theme=tokyonight" width="400px" alt="Giri's Git Streak" /> |
 
 I bridge the gap between strict software engineering, advanced machine learning models, and resilient real-world runtime operations. Focused on building production-ready Python architectures, scalable cloud infrastructure, and self-healing systems.
 
