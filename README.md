@@ -5,7 +5,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Degree-B.Tech%20AI%20%26%20ML-blueviolet?style=for-the-badge&logo=graduation-cap" />
   <img src="https://img.shields.io/badge/Focus-Software%20%26%20Cloud-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-ServiceNow%20SysAdmin%20🚀-00bcd4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-ServiceNow%20Core%20Architecture-293E40?style=for-the-badge&logo=servicenow" />
 </p>
 
 
