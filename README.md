@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/Status-Active%20Contributor-green?style=for-the-badge" />
 </p>
 
-<!-- SIDE-BY-SIDE METRICS GRID -->
-| 🏆 Developer Milestones | 🔥 Contribution Streak |
-| :---: | :---: |
-| [![Giri's Trophies](https://github-profile-trophy.vercel.app/?username=Sai8555&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai8555&theme=tokyonight" width="400px" alt="Giri's Git Streak" /> |
 
 I bridge the gap between strict software engineering, advanced machine learning models, and resilient real-world runtime operations. Focused on building production-ready Python architectures, scalable cloud infrastructure, and self-healing systems.
 
@@ -78,10 +74,12 @@ I bridge the gap between strict software engineering, advanced machine learning 
 - 💼 **Enterprise Engineering:** Apply algorithmic efficiency and robust pipeline architecture within a forward-thinking development team.
 
 ---
+<!-- SIDE-BY-SIDE METRICS GRID -->
+| 🏆 Developer Milestones | 🔥 Contribution Streak |
+| :---: | :---: |
+| [![Giri's Trophies](https://github-profile-trophy.vercel.app/?username=Sai8555&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai8555&theme=tokyonight" width="400px" alt="Giri's Git Streak" /> |
 
 ### 📈 Current Execution Focus
 
 ```text
 Build Engine ➡️ Test Failures ➡️ Auto-Heal ➡️ Scale Securely
-
-
