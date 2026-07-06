@@ -18,8 +18,7 @@ I bridge the gap between strict software engineering, advanced machine learning 
 | Project | Core Capabilities | Primary Ecosystem |
 | :--- | :--- | :--- |
 | **📦 [higi — Runtime Resilience Engine](https://github.com/Sai8555/higi---module)** | • Auto-healing runtime parser for dynamic LLM outputs.<br>• Type-coerces corrupted payload strings.<br>• Guarantees zero-crash execution vectors. | `Python` `Hatchling` `Twine` <br> **Live on PyPI** (`pip install higi`) |
-| **🛡️ [Real-Time Face Spoofing Detection](https://github.com/Sai8555)** | • Computer Vision framework blocking biometric fraud.<br>• Real-time facial presentation attack isolation.<br>• Edge-optimized processing pipelines. | `Python` `Deep Learning` <br> `MobileNetV2` `CNN` |
-
+| **📱 [HIGI — iOS Performance Engine](https://github.com/Sai8555/HIGI-IOS)** | • Premium hardware analytics & battery diagnostics.<br>• Real-time core telemetry tracking (CPU/Memory).<br>• Encrypted cross-device CloudKit integration. | `Swift 6` `SwiftUI` <br> `MVVM-C` `CloudKit` |
 ---
 
 ### 🛠 Tech Stack & Cloud Infrastructure
